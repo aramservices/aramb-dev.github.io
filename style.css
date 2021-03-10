@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Thanks to Aram Services (background image)";
+    content: "© 2019-2021 Aram Services. All rights reserved. ";
     position: fixed;
     left: 0;
     bottom: 0;
