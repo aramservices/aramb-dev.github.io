@@ -2,7 +2,7 @@
 
 body {
     background: #e9e9e9;
-    background-image: url('background.jpg');
+    background-image: url('Greenery\ by\ Aram\ Services.jpg');
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Thanks to Unsplash (background image)";
+    content: "Thanks to Aram Services (background image)";
     position: fixed;
     left: 0;
     bottom: 0;
