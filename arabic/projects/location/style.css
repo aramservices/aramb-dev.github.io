@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Trad Arabic";
+    src: url('./assets/traditional-arabic/trado.ttf') format('truetype');
+  }
+
+.bismillah {
+    text-align: center;
+    font-size: 100px!important;
+    font-family: 'Trad Arabic','Tahoma';
+}
+
+.salaams {
+    text-align: center;
+    font-size: 90px!important;
+    font-family: 'Trad Arabic','Tahoma';
+}
+.projdownloadstext {
+    font-size: 2.5em;
+}
+.projdownloads {
+    font-size: 1.5em;
+    font-family: 'Tahoma';
+    text-align: center;
+}
+a {
+    color: rgb(232, 18, 18);
+    text-decoration: green underline dotted;
+}
+footer {
+    color: green;
+    font-size: 100px!important;
+    font-family: 'Trad Arabic';
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+
+
+}
